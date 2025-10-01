@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Background Remover",
+  "description": "Upload an image to remove the background with maximum precision using AI. The result is a high-quality PNG with a transparent background.",
+  "requestFramePermissions": []
+}
